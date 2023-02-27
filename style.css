@@ -1,0 +1,53 @@
+.photo{
+    padding: auto;
+    width: 1200px;
+    height: 850px;
+}
+.headings{
+float: left;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+.headings ul li{
+display: inline-block;
+list-style: none;
+padding: 0px 10px 0 6px;
+color: grey;
+}
+.sign{
+    float: right;
+    color: grey;
+    display: inline;
+}
+
+
+
+    
+
+.button{
+    float: right;
+    background-color: rgb(223, 174, 174);
+    width:80px;
+    height: 60px;
+    font-size: large;
+    text-align: center;
+}
+.save{
+    background-color: aquamarine;
+    width: 70px;
+    height: 60px;
+    display: inline;
+
+}
+
+.like{
+
+    background-color: rgb(175, 20, 129);
+    width: 70px;
+    height: 60px;
+    display: ruby-text-container;
+    margin: 20%;
+    float: right;
+    margin-top: 0%;
+
+}
